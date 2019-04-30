@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tamirla/meetup-oauth-tester/static/css/main.584f321a.chunk.css",
+    "main.js": "/tamirla/meetup-oauth-tester/static/js/main.46f34143.chunk.js",
+    "main.js.map": "/tamirla/meetup-oauth-tester/static/js/main.46f34143.chunk.js.map",
+    "runtime~main.js": "/tamirla/meetup-oauth-tester/static/js/runtime~main.22e143f6.js",
+    "runtime~main.js.map": "/tamirla/meetup-oauth-tester/static/js/runtime~main.22e143f6.js.map",
+    "static/js/2.b41502e9.chunk.js": "/tamirla/meetup-oauth-tester/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/tamirla/meetup-oauth-tester/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/tamirla/meetup-oauth-tester/index.html",
+    "precache-manifest.3ad4291c9c6fafff6f8b548533b5be38.js": "/tamirla/meetup-oauth-tester/precache-manifest.3ad4291c9c6fafff6f8b548533b5be38.js",
+    "service-worker.js": "/tamirla/meetup-oauth-tester/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/tamirla/meetup-oauth-tester/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/tamirla/meetup-oauth-tester/static/media/logo.5d5d9eef.svg"
+  }
+}
